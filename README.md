@@ -1,4 +1,7 @@
-## Oiii! Eu sou o Matheus blau 
+## Hello there! I am Blaumath 
+<a href=Welcome to my github
+I am from Brazil, currently learn to understand  programming languages, explore the world of internet, also focusing on building something.  🚀>
+
 <div align="center">
   <a href="https://github.com/blaumath">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=blaumath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
