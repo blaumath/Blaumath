@@ -1,6 +1,6 @@
 ## Hello there! I am Blaumath 
 Welcome to my github
-I am from Brazil, currently learn to understand  programming languages, explore the world of internet, also focusing on building something.  🚀>
+I am from Brazil, currently learn to understand  programming languages, explore the world of internet, also focusing on building something.  🚀
 
 <div align="center">
   <a href="https://github.com/blaumath">
