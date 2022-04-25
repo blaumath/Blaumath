@@ -2,8 +2,6 @@
 </h2>
     <a href="https://github.com/blaumath">
         <img align="right" src="https://komarev.com/ghpvc/?username=Nexumkill&color=5865F2" />
-    </a> 
-    Welcome to my github
 <br>
     I am from Brazil, currently learn to understand  programming languages, explore the world of internet, also focusing on building something, 🚀<!-- and btw, I side work as a developer on a VoIP platform called <strong> <a href="https://discord.com">Discord</a></strong> -->
 <br>
