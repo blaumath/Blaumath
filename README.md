@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ola+eu+sou+Matheus;)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+new+roman&size=25&color=00DDF7&background=FF1D0200&lines=Welcome+to+My+Github+profile;My+name+is+Matheus+)](https://git.io/typing-svg)
 </h2>
     <a href="https://github.com/blaumath">
         <img align="right" src="https://komarev.com/ghpvc/?username=Nexumkill&color=5865F2" />
