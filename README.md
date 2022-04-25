@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ola+eu+sou+Matheus;)](https://git.io/typing-svg) <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> --><a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
-
-<h2>
-  <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> --><a href="#"><img alt="Verified Discord Developer:discord-badges" width="30px" src="https://cdn.discordapp.com/emojis/815622226548228106.gif"/></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Ola+eu+sou+Matheus;)](https://git.io/typing-svg) 
 </h2>
     <a href="https://github.com/blaumath">
         <img align="right" src="https://komarev.com/ghpvc/?username=Nexumkill&color=5865F2" />
