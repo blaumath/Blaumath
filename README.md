@@ -21,7 +21,7 @@
     </a>
     <br>
     <a href="https://github.com/blaumath">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevinOfficial&layout=compact&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaumath&layout=compact&theme=tokyonight" />
     </a>
     <br>
     <a href="#">
