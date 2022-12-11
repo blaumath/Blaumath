@@ -24,6 +24,3 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaumath&layout=compact&theme=tokyonight" />
     </a>
     <br>
-    <a href="#">
-        <img src="https://activity-graph.herokuapp.com/graph?username=blaumath&bg_color=0a0047&color=ffffff&line=00ff99&point=ffffff&area=true&hide_border=true"/>
-    </a>
